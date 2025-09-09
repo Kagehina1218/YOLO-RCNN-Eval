@@ -61,7 +61,7 @@ project-root/
 │   ├── Training_FasterRCNN.ipynb
 │   └── Training_YOLO.ipynb
 │
-├── README.md                   # Project documentation (this file)
+└── README.md                   # Project documentation (this file)
 ```
 
 --- 
