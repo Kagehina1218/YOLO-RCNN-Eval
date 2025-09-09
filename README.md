@@ -1,4 +1,4 @@
-# Weather Simulation and Object Detection: Evaluating YOLO and Faster R CNN Performance
+# Weather Simulation and Object Detection: Evaluating YOLO and Faster-R-CNN Performance
 ---
 
 ## 📌 Overview
